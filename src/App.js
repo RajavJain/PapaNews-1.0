@@ -12,7 +12,9 @@ import React, { Component } from 'react'
 import News from './components/News';
 
 export default class App extends Component {
+
   pageSize=3;
+
   render() {
     return (
       <div>
