@@ -33,10 +33,10 @@ export default class navbar extends Component {
                 <li><Link className="nav-link " onClick={this.addClass} aria-current="page" to="/sports">Sports</Link></li>
                 <li><Link className="nav-link " onClick={this.addClass} aria-current="page" to="/technology">Technology</Link> </li>
             </ul>
-            
           </div>
         </div>
       </nav>
+      
     )
   }
 }
