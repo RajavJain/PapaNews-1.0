@@ -21,6 +21,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 
 ![ScreenShots](https://github.com/RajavJain/PapaNews-1.0/blob/master/public/1.png)
+![ScreenShots](https://github.com/RajavJain/PapaNews-1.0/blob/master/public/2.png)
+![ScreenShots](https://github.com/RajavJain/PapaNews-1.0/blob/master/public/3.png)
 
 
 
